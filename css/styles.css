@@ -63,6 +63,7 @@ img{
 }
 .nav .nav-link{
     color: #2e2f42;
+    padding: 24px 0;
 }
 .nav .nav-link:hover{
     color: #404bbf
@@ -90,6 +91,7 @@ img{
 /* #Hero Section */
 .hero-section {
     background-color: #2e2f42;
+    padding: 188px 0;
 }
 
 .hero-title {
@@ -98,6 +100,12 @@ img{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
+    height: 56px;
+    border: none;
+    background-color:#4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
 
 }
 
@@ -109,6 +117,9 @@ img{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    display: block;
+    min-width: 169px;
+
 
 }
 .hero-btn:hover,
