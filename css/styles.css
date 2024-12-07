@@ -155,7 +155,7 @@ cursor: pointer;
     gap: 24px;
 }
 .second-section-list-link{
-    width: calc((100% - 3 * 24px)/4);
+    flex-basis: calc((100% - 3 * 24px)/4);
 }
 .second-sec-list-text{
     line-height: 1.5;
