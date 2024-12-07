@@ -199,7 +199,6 @@ cursor: pointer;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 48px) / 3);
 }
 .team-title-list-item{
     width: calc((100% - 48px) / 3);
@@ -208,7 +207,6 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
-    width: calc((1128 - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 
 }
